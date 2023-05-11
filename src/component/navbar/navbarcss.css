@@ -1,0 +1,46 @@
+.box{
+    display: flex;
+    justify-content: space-between;
+}
+.box1{
+    height: 35px;
+    display: flex;justify-content: space-between;
+    
+}
+.input1{
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.568);
+    width: 40%;
+    
+}
+.input2{
+    box-shadow: 5px 5px 5px  rgba(0, 0, 0, 0.568);
+    width: 40%;
+
+}
+
+.selectt{
+    height: 35px;
+    width: 30%;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.568);
+}
+.kattainput{
+    width: 100%;
+    height: 35px;
+    display: flex;
+    margin-top: 25px;
+}
+.inp{
+    width: 100%;
+    padding-left: 25px;
+    margin-left: 35px;
+}
+.bs{
+    position: relative;
+    right: 35px;
+    top: 3px;
+    font-size: 25px;
+}
+.p{
+    left: -33px;
+    top: 10px
+}
